@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg9929"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="LocationMenu.svg"
+   inkscape:export-filename="C:\Users\Rob\Desktop\UnityProjects\Rudis\Assets\Art\LocationMenu.png"
+   inkscape:export-xdpi="87.728462"
+   inkscape:export-ydpi="87.728462">
+  <defs
+     id="defs9931" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="261.01927"
+     inkscape:cy="1035.9274"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9934">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#666666;stroke-width:1.84590566;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect9937"
+       width="536.32733"
+       height="82.115555"
+       x="13.979177"
+       y="35.113503" />
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect10447"
+       width="3.5360374"
+       height="81.603722"
+       x="188.76085"
+       y="35.692154" />
+    <rect
+       y="35.692154"
+       x="374.78732"
+       height="81.603722"
+       width="3.5360374"
+       id="rect10449"
+       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:#666666;stroke-width:1.06035006;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect10465"
+       width="174.17715"
+       height="80.765022"
+       x="15.38584"
+       y="35.864319" />
+    <rect
+       style="fill:none;stroke:#cccccc;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect10459"
+       width="142.63412"
+       height="50.270958"
+       x="28.321381"
+       y="50.772591" />
+    <rect
+       y="51.308167"
+       x="212.35678"
+       height="49.19981"
+       width="142.64418"
+       id="rect10461"
+       style="fill:none;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:none;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect10463"
+       width="142.62914"
+       height="50.806564"
+       x="394.4043"
+       y="50.504791" />
+  </g>
+</svg>

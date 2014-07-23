@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg8881"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AdvanceButton.svg"
+   inkscape:export-filename="C:\Users\Rob\Desktop\UnityProjects\Rudis\Assets\Art\AdvanceButton.png"
+   inkscape:export-xdpi="62.11869"
+   inkscape:export-ydpi="62.11869">
+  <defs
+     id="defs8883" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="276.02988"
+     inkscape:cy="911.4504"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata8886">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:#666666;stroke-width:3.25679492999999990;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect8889"
+       width="503.80933"
+       height="90.656929"
+       x="26.392363"
+       y="44.358341"
+       rx="5.9093103"
+       ry="4.985877" />
+    <rect
+       style="fill:none;stroke:#666666;stroke-width:3.00926256;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect9399"
+       width="481.32843"
+       height="70.701416"
+       x="37.885353"
+       y="54.336098" />
+  </g>
+</svg>
